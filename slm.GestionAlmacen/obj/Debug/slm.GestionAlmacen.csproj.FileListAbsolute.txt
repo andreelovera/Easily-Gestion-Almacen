@@ -1,0 +1,60 @@
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.GestionAlmacen.exe.config
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.GestionAlmacen.exe
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.GestionAlmacen.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\EntityFramework.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Entidad.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Logica.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Modelo.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Entidad.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Logica.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\EntityFramework.xml
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Modelo.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Modelo.dll.config
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Producto.frmAgregar.resources
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Producto.frmEditar.resources
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Producto.frmListar.resources
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Properties.Resources.resources
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Proveedor.frmAgregar.resources
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Proveedor.frmEditar.resources
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Proveedor.frmListar.resources
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.csproj.GenerateResource.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.csproj.CopyComplete
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.exe
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Categoria.frmAgregar.resources
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Marca.frmAgregar.resources
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.GestionAlmacen.exe.config
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.GestionAlmacen.exe
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.GestionAlmacen.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\EntityFramework.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Entidad.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Logica.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Modelo.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Entidad.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Logica.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\EntityFramework.xml
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Modelo.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\bin\Debug\slm.Modelo.dll.config
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Categoria.frmAgregar.resources
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Marca.frmAgregar.resources
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Producto.frmAgregar.resources
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Producto.frmEditar.resources
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Producto.frmListar.resources
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Properties.Resources.resources
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Proveedor.frmAgregar.resources
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Proveedor.frmEditar.resources
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.Proveedor.frmListar.resources
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.csproj.CopyComplete
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.exe
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.GestionAlmacen\obj\Debug\slm.GestionAlmacen.pdb

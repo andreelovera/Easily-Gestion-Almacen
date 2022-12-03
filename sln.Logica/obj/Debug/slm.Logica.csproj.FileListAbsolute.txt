@@ -1,0 +1,28 @@
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Logica.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Logica.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Entidad.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Modelo.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\EntityFramework.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Entidad.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Modelo.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Modelo.dll.config
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\EntityFramework.xml
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\obj\Debug\slm.Logica.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\obj\Debug\slm.Logica.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\obj\Debug\slm.Logica.csproj.CopyComplete
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\obj\Debug\slm.Logica.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Logica\obj\Debug\slm.Logica.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Logica.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Logica.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Entidad.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Modelo.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\EntityFramework.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Entidad.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Modelo.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\slm.Modelo.dll.config
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\bin\Debug\EntityFramework.xml
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\obj\Debug\slm.Logica.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\obj\Debug\slm.Logica.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\obj\Debug\slm.Logica.csproj.CopyComplete
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\obj\Debug\slm.Logica.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Logica\obj\Debug\slm.Logica.pdb

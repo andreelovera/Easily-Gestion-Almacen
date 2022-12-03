@@ -1,0 +1,12 @@
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.Entidad\bin\Debug\slm.Entidad.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.Entidad\bin\Debug\slm.Entidad.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.Entidad\obj\Debug\slm.Entidad.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.Entidad\obj\Debug\slm.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.Entidad\obj\Debug\slm.Entidad.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\slm.Entidad\obj\Debug\slm.Entidad.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.Entidad\bin\Debug\slm.Entidad.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.Entidad\bin\Debug\slm.Entidad.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.Entidad\obj\Debug\slm.Entidad.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.Entidad\obj\Debug\slm.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.Entidad\obj\Debug\slm.Entidad.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\slm.Entidad\obj\Debug\slm.Entidad.pdb

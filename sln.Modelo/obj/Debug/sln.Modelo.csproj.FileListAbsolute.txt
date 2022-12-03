@@ -1,0 +1,14 @@
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\sln.Modelo.dll.config
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\sln.Modelo.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\sln.Modelo.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Entidad.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Entidad.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.xml
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\sln.Modelo.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\sln.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\sln.Modelo.csproj.CopyComplete
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\sln.Modelo.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\sln.Modelo.pdb

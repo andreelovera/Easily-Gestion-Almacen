@@ -1,0 +1,28 @@
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Modelo.dll.config
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Modelo.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Modelo.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Entidad.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Entidad.pdb
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.xml
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\slm.Modelo.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\slm.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\slm.Modelo.csproj.CopyComplete
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\slm.Modelo.dll
+C:\Users\SAMUEL\Desktop\TAREA\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\slm.Modelo.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Modelo.dll.config
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Modelo.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Modelo.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Entidad.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\slm.Entidad.pdb
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.xml
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\slm.Modelo.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\slm.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\slm.Modelo.csproj.CopyComplete
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\slm.Modelo.dll
+C:\Users\andre\Desktop\Proyecto Analisis\Aplicacion\slm.GestionAlmacen\sln.Modelo\obj\Debug\slm.Modelo.pdb
